@@ -6,7 +6,7 @@ ___
 + **GitHub:** 
 + **E-mail:** vzhuchkov@tut.by
 ___
-#Skills:
+# Skills:
 + Java Core, EE;
 + Intellij IDEA;
 + MySQL Workbench, Oracle database;
